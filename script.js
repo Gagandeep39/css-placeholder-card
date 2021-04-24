@@ -35,6 +35,6 @@ function getData() {
   name.innerHTML = 'John Doe';
 
   // Removed animation class
-  animatedBgs.forEach((bg) => bg.classList.remove('.animated-bg'));
-  animatedBgsText.forEach((bg) => bg.classList.remove('.animated-bg-text'));
+  animatedBgs.forEach((bg) => bg.classList.remove('animated-bg'));
+  animatedBgsText.forEach((bg) => bg.classList.remove('animated-bg-text'));
 }
